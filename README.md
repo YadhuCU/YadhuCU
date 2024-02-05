@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 Actively seeking new opportunities in the tech industry!
+ 🔭 Actively seeking new opportunities!
  
  🌱 I’m currently learning **Typescript, ML**
 
